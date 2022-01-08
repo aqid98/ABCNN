@@ -108,3 +108,6 @@ Wei Pan,Xiaofan Lin,Cong Zhao Towards Accurate Binary Convolutional Neural Netwo
 # Models Drive Link
 
 https://drive.google.com/file/d/1n8RlbHh1abPmFBUd2IhhZgG5EcmeQ5Ui/view?usp=sharing
+
+# Paper Link
+https://drive.google.com/file/d/13Zi08oF2SK7KGa-21_S9ejlzhZjkgXoe/view?usp=sharing
