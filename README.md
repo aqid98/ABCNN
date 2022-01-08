@@ -1,4 +1,4 @@
-# e4040-2021Fall-Project-ABCN-sg3904-mk4427-ads2251
+# 2021Fall-Project-ABCNN
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
 # Implementation of Accurate Binary Convolutional Neural Network
